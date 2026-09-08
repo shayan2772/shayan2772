@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Shayan%20Ahmed%20Abbasi&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Technical%20Operations%20Manager%20%C2%B7%20AI%20Engineer&descSize=18&descAlignY=54&animation=fadeIn" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Shayan%20Ahmed%20Abbasi&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=AI%20Native%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20MCP%20%C2%B7%20RAG&descSize=18&descAlignY=54&animation=fadeIn" alt="" />
 
 <div align="center">
 
@@ -17,11 +17,11 @@
 
 ## 👋 About Me
 
-Technical operations and delivery leader with **8+ years** shipping production software across web, desktop, and mobile — **40–50 projects** delivered or supervised end to end. I went from AI Engineer → Team Lead → **Technical Operations Manager** at Ikonic Dev, and I'm still deeply hands-on.
+**AI Native Engineer** working **remotely** from Islamabad, Pakistan. 8+ years shipping production software across web, desktop, and mobile — **40–50 projects** delivered or supervised end to end, and I'm still deeply hands-on in the code every day.
 
 - 🤖 I build **multi-agent systems**, **Model Context Protocol** servers, and **RAG pipelines** with vector and hybrid search
 - 🚀 **Seven production AI products** shipped end to end — several from idea to live SaaS in under 30 days
-- 🧭 I own client communication, estimation, and architecture planning across the active project portfolio
+- 🧭 I scope, estimate, and architect systems end to end — requirements through production
 - 🎓 **MS in Artificial Intelligence**, Arid Agriculture University
 - 💬 Ask me about agents, retrieval quality, guardrails, or getting AI out of a notebook and into production
 
@@ -142,8 +142,9 @@ class AIEngineer:
 
     def __init__(self):
         self.name = "Shayan Ahmed Abbasi"
-        self.role = "Technical Operations Manager | AI Engineer"
+        self.role = "AI Native Engineer"
         self.location = "Islamabad, Pakistan"
+        self.work_mode = "Remote"
         self.education = ["MS Artificial Intelligence", "BS Information Technology"]
         self.languages_spoken = ["ur_PK", "en_US"]
 
