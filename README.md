@@ -91,8 +91,17 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shayan2772&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan2772&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shayan2772&theme=tokyonight" alt="Profile details" />
+</p>
+
+<p align="left">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shayan2772&theme=tokyonight" alt="Repos per language" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shayan2772&theme=tokyonight" alt="Most commit language" />
+</p>
+
+<p align="left">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shayan2772&theme=tokyonight" alt="Stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shayan2772&theme=tokyonight&utcOffset=5" alt="Productive time" />
 </p>
 
 <p align="left">
