@@ -41,7 +41,9 @@ Technical operations and delivery leader with **8+ years** shipping production s
 <summary><b>Frontend &amp; Mobile</b></summary>
 <br/>
 
-[![Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=9&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,html,css,vite&perline=9&theme=dark)](https://skillicons.dev)
+&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </details>
 
@@ -49,7 +51,7 @@ Technical operations and delivery leader with **8+ years** shipping production s
 <summary><b>Data &amp; Infrastructure</b></summary>
 <br/>
 
-[![Skills](https://skillicons.dev/icons?i=postgres,supabase,aws,azure,docker,kubernetes,git,vscode&perline=9&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=postgres,redis,supabase,aws,azure,docker,kubernetes,nginx,linux,bash,git,vscode&perline=12&theme=dark)](https://skillicons.dev)
 
 </details>
 
